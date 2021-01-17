@@ -7,6 +7,11 @@ currency_put_back_202103_200231.json
 open_market_operation_20210115_20040116.json
 #### 央票发行情况
 central_bank_bills_20131111_19970311.json
+#### 贷款市场报价利率（LPR）
+LPR_20190820_20191220.json
+LPR_20200101_20201231.json
+#### 上海银行间同业拆放利率（Shanghai Interbank Offered Rate，简称Shibor）
+
 
 
 #### buy-me-a-coffee
